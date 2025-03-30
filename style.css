@@ -1,0 +1,16 @@
+#google {
+    color: greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+#google:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+body {
+    background-image: url('../images/build.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover
+    background-position: center;
+}
